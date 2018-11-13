@@ -29,6 +29,7 @@ Potentially could have voice recognition by using the Vive's microphone to comma
 
 ### Control scheme using Vive controllers
 <img src="https://docs.unity3d.com/uploads/Main/vive_controllers.jpg" width="400">
+
 1.Menu Button -
 
 2.Track Pad -
