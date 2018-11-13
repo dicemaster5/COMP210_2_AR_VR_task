@@ -20,7 +20,7 @@ RTS games that are non VR:
 ## Key requirments the prototype must fufill:
 - RTS type controls using the Vive controllers (area unit selection, point command to move units to position)
 - Player can pick up units from the ground and place them somewhere else using the Vive Controllers
-- Units can move around and avoid obstacles thanks to AI
+- Units can move around and avoid obstacles using to AI
 - Units can contruct buildings/factories
 - Units can carry and move around resources for construction
 
@@ -30,7 +30,13 @@ RTS games that are non VR:
 - have ennemy robots that come to attack you
 - defense system to defend against enemy robots
 
+### Control scheme using Vive controllers
+
+
 ## Look of the game
 I intend for the game to have a similair look/asthetic to Planetary annihilation and AirMech
+[AirMech Command video link](https://www.youtube.com/watch?v=hL-8GeuDPzI)
 
-![alt text](https://www.gamereactor.eu/media/62/single_playeraddedplanetary_1166244b.jpg "Planetary annihilation game")
+<img src="https://www.gamereactor.eu/media/62/single_playeraddedplanetary_1166244b.jpg" width="500">
+<img src="https://vrgamecritic.com/images/games/screens/5-screen-05.jpg" width="500">
+<img src="http://24.media.tumblr.com/11cfc7e5f7741b2453cc3861505463cf/tumblr_mh3kexjaYh1s49jb5o1_1280.jpg" width="500">
