@@ -25,15 +25,17 @@ RTS games that are non VR:
 - Units can carry and move around resources for construction
 
 ### Usp
+Potentially could have voice recognition by using the Vive's microphone to command the robot units to perform actions.
 
 ### Control scheme using Vive controllers
 <img src="https://docs.unity3d.com/uploads/Main/vive_controllers.jpg" width="400">
+1.Menu Button -
 
-2. Track Pad -
+2.Track Pad -
 
-7. Trigger - 
+7.Trigger - 
 
-8. Grip Button - 
+8.Grip Button - 
 
 ### stretch Goals:
 - Have the units work on building a bigger robot
