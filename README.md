@@ -14,7 +14,7 @@ RTS vr games:
 
 RTS games that are non VR:
 - Planetary annihilation
--
+- Supreme Commander 2
 
 
 ## Key requirments the prototype must fufill:
@@ -31,5 +31,6 @@ RTS games that are non VR:
 - defense system to defend against enemy robots
 
 ## Look of the game
+I intend for the game to have a similair look/asthetic to Planetary annihilation and AirMech
 
 ![alt text](https://www.gamereactor.eu/media/62/single_playeraddedplanetary_1166244b.jpg "Planetary annihilation game")
