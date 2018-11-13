@@ -24,17 +24,26 @@ RTS games that are non VR:
 - Units can contruct buildings/factories
 - Units can carry and move around resources for construction
 
+### Usp
+
+### Control scheme using Vive controllers
+<img src="https://docs.unity3d.com/uploads/Main/vive_controllers.jpg" width="400">
+
+2. Track Pad -
+
+7. Trigger - 
+
+8. Grip Button - 
+
 ### stretch Goals:
 - Have the units work on building a bigger robot
 - a win and lose state to the game
 - have ennemy robots that come to attack you
 - defense system to defend against enemy robots
 
-### Control scheme using Vive controllers
-
-
 ## Look of the game
 I intend for the game to have a similair look/asthetic to Planetary annihilation and AirMech
+
 [AirMech Command video link](https://www.youtube.com/watch?v=hL-8GeuDPzI)
 
 <img src="https://www.gamereactor.eu/media/62/single_playeraddedplanetary_1166244b.jpg" width="500">
