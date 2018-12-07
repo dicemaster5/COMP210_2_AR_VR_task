@@ -49,8 +49,9 @@ These are the user stroies for the prototype I will be developing:
 
 ### stretch Goals:
 - Units can contruct buildings/factories
-- Units can carry and move around resources for construction
-- Have the units work on building a bigger robot
+- Units can carry and move around resources for construction - Done!
+- Have the units work on building a bigger robot - Done!
+- A bigger robot unit you can control - Done!
 - a win and lose state to the game
 - have ennemy robots that come to attack you
 - defense system to defend against enemy robots
