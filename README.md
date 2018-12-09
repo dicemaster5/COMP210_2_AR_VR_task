@@ -64,3 +64,8 @@ The protoype will use whatever assets I can find available for free on the asset
 <img src="https://www.gamereactor.eu/media/62/single_playeraddedplanetary_1166244b.jpg" width="500">
 <img src="https://vrgamecritic.com/images/games/screens/5-screen-05.jpg" width="500">
 <img src="http://24.media.tumblr.com/11cfc7e5f7741b2453cc3861505463cf/tumblr_mh3kexjaYh1s49jb5o1_1280.jpg" width="500">
+
+### List of assets I used from the Unity asset store
+- https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
+- https://assetstore.unity.com/packages/3d/characters/robots/scifi-enemies-and-vehicles-15159
+- https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
