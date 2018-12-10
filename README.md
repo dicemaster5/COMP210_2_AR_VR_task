@@ -72,3 +72,12 @@ The protoype will use whatever assets I can find available for free on the asset
 
 ### Commit Log
 ![Image](Commits%20log.JPG)
+
+## Screenshots of the game
+![Image](Screen1.PNG)
+![Image](Screen2.PNG)
+![Image](Screen3.PNG)
+![Image](Screen4.PNG)
+![Image](Screen5.PNG)
+![Image](Screen6.PNG)
+![Image](Screen7.PNG)
